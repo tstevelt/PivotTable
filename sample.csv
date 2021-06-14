@@ -1,0 +1,519 @@
+ADDR|ID|USER|DATE|TIME|COMMAND|STATUS|BYTES|REFER|AGENT
+114.67.74.5|CN|-|06/12/21|11:07:15|GET /.env HTTP/1.1|403|199|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+114.67.74.5|CN|-|06/12/21|11:07:15|POST / HTTP/1.1|403|-|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+66.249.66.31|US|-|06/12/21|11:12:50|GET / HTTP/1.1|301|245|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.28|US|-|06/12/21|11:12:51|GET / HTTP/1.1|200|4286|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.26|US|-|06/12/21|11:12:53|GET /www.css?version=20181219_01 HTTP/1.1|200|2441|https://www.silverhammersoftware.com/|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/90.0.4430.97 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:04|GET / HTTP/1.1|301|248|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:04|GET / HTTP/1.1|200|9094|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:04|GET /wp-login.php HTTP/1.1|301|260|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:04|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:05|GET /wordpress/wp-login.php HTTP/1.1|301|270|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:05|GET /wordpress/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:05|GET /blog/wp-login.php HTTP/1.1|301|265|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:05|GET /blog/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:05|GET /wp/wp-login.php HTTP/1.1|301|263|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+3.8.12.221|GB|-|06/12/21|11:14:06|GET /wp/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+66.249.66.50|US|-|06/12/21|11:23:04|GET / HTTP/1.1|200|9094|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.52|US|-|06/12/21|11:23:07|GET /my_navbar_colors.css?version=20190715_01 HTTP/1.1|200|1398|https://stocks.silverhammersoftware.com/|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/90.0.4430.97 Safari/537.36
+66.249.66.52|US|-|06/12/21|11:23:07|GET /invest.css?version=20190715_01 HTTP/1.1|200|2179|https://stocks.silverhammersoftware.com/|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/90.0.4430.97 Safari/537.36
+66.249.66.50|US|-|06/12/21|11:23:08|GET /chart.js HTTP/1.1|200|9080|https://stocks.silverhammersoftware.com/|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/90.0.4430.97 Safari/537.36
+66.249.66.48|US|-|06/12/21|11:23:08|GET /invest.js HTTP/1.1|200|1511|https://stocks.silverhammersoftware.com/|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/90.0.4430.97 Safari/537.36
+92.118.160.41|LT|-|06/12/21|11:28:44|GET / HTTP/1.1|200|4703|-|NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+35.228.213.137|FI|-|06/12/21|11:36:19|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+35.228.213.137|FI|-|06/12/21|11:36:20|POST / HTTP/1.1|200|4776|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+20.193.237.153|IN|-|06/12/21|11:38:28|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+20.193.237.153|IN|-|06/12/21|11:38:28|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+186.179.100.10|CO|-|06/12/21|12:03:56|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+174.247.209.71|US|-|06/12/21|12:07:34|GET /acctmenu.cgi HTTP/1.1|200|3203|-|Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.82 Mobile DuckDuckGo/5 Safari/537.36
+174.247.209.71|US|-|06/12/21|12:07:35|GET /acct.css HTTP/1.1|200|1213|https://acct.silverhammersoftware.com/acctmenu.cgi|Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.82 Mobile DuckDuckGo/5 Safari/537.36
+174.247.209.71|US|-|06/12/21|12:07:35|GET /images/Summer-06.jpg HTTP/1.1|200|242305|https://acct.silverhammersoftware.com/acctmenu.cgi|Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.82 Mobile DuckDuckGo/5 Safari/537.36
+58.53.128.88|CN|-|06/12/21|12:13:12|GET / HTTP/1.1|301|232|-|GRequests/0.10
+58.53.128.88|CN|-|06/12/21|12:13:14|GET / HTTP/1.1|403|-|http://www.stevelt.com|GRequests/0.10
+66.249.66.40|US|-|06/12/21|12:23:11|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.37|US|-|06/12/21|12:23:14|GET /member_large.css?version=20181217_12 HTTP/1.1|200|1145|https://madisonfreethinkers.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+198.23.172.233|US|-|06/12/21|12:28:05|POST /GponForm/diag_Form?style/ HTTP/1.1|404|196|-|curl/7.3.2
+66.249.66.84|US|-|06/12/21|12:33:09|GET /?MenuIndex=4 HTTP/1.1|200|5580|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+114.119.152.134|SG|-|06/12/21|12:44:51|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+34.241.77.13|IE|-|06/12/21|12:45:29|GET / HTTP/1.1|301|246|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:30|GET / HTTP/1.1|200|3203|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:30|GET /wp-login.php HTTP/1.1|301|258|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:30|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:30|GET /wordpress/wp-login.php HTTP/1.1|301|268|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:30|GET /wordpress/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:31|GET /blog/wp-login.php HTTP/1.1|301|263|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:31|GET /blog/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:31|GET /wp/wp-login.php HTTP/1.1|301|261|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:45:31|GET /wp/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+17.121.115.169|US|-|06/12/21|12:45:43|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)
+17.121.112.142|US|-|06/12/21|12:45:43|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)
+34.241.77.13|IE|-|06/12/21|12:46:30|GET / HTTP/1.1|301|233|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:30|GET / HTTP/1.1|200|3203|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:30|GET /wp-login.php HTTP/1.1|301|245|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:30|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:31|GET /wordpress/wp-login.php HTTP/1.1|301|255|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:31|GET /wordpress/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:31|GET /blog/wp-login.php HTTP/1.1|301|250|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:31|GET /blog/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:31|GET /wp/wp-login.php HTTP/1.1|301|248|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.241.77.13|IE|-|06/12/21|12:46:32|GET /wp/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+34.86.35.18|US|-|06/12/21|12:47:32|GET / HTTP/1.1|200|3203|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+66.249.66.95|US|-|06/12/21|12:53:21|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.95|US|-|06/12/21|12:53:21|GET /?MenuIndex=3 HTTP/1.1|200|3951|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+5.188.62.140|RU|-|06/12/21|12:58:48|GET / HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+164.132.48.179|FR|-|06/12/21|13:07:17|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+13.233.73.212|IN|-|06/12/21|13:07:41|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+13.233.73.212|IN|-|06/12/21|13:07:41|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+13.233.73.212|IN|-|06/12/21|13:07:42|GET /wordpress/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+13.233.73.212|IN|-|06/12/21|13:07:42|GET /blog/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+13.233.73.212|IN|-|06/12/21|13:07:42|GET /wp/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+66.249.66.82|US|-|06/12/21|13:11:37|GET /robots.txt HTTP/1.1|301|242|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.81|US|-|06/12/21|13:11:37|GET /ads.txt HTTP/1.1|301|239|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.83|US|-|06/12/21|13:11:37|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.82|US|-|06/12/21|13:11:38|GET /ads.txt HTTP/1.1|404|196|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.81|US|-|06/12/21|13:13:20|GET / HTTP/1.1|301|232|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.84|US|-|06/12/21|13:13:21|GET / HTTP/1.1|200|9747|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+135.125.244.48|FR|-|06/12/21|13:13:26|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+135.125.244.48|FR|-|06/12/21|13:13:26|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+35.160.68.161|US|-|06/12/21|13:14:25|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+54.186.241.19|US|-|06/12/21|13:14:31|GET /favicon.ico HTTP/1.1|200|1506|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+172.105.254.10|AU|-|06/12/21|13:15:55|GET /owa/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+34.86.35.24|US|-|06/12/21|13:20:11|GET / HTTP/1.1|200|9094|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+66.249.66.28|US|-|06/12/21|13:23:09|GET /?MenuIndex=2 HTTP/1.1|200|6239|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.59|US|-|06/12/21|13:23:26|GET /signup.cgi?Plan= HTTP/1.1|200|3953|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+34.74.59.178|US|-|06/12/21|13:27:36|GET /robots.txt HTTP/1.0|200|525|-|ZoominfoBot (zoominfobot at zoominfo dot com)
+92.118.160.57|LT|-|06/12/21|13:29:54|GET / HTTP/1.1|200|399|-|NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+66.249.66.65|US|-|06/12/21|13:33:00|GET /login.html HTTP/1.1|304|-|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+185.45.194.2|-|-|06/12/21|13:33:01|HEAD / HTTP/1.0 THiS iS A GHOST WARRiOR FRANKFURT WORLD RECORD ATTEMPT!!!\n|400|226|-|-
+34.74.59.178|US|-|06/12/21|13:37:19|GET /robots.txt HTTP/1.0|301|254|-|ZoominfoBot (zoominfobot at zoominfo dot com)
+34.74.59.178|US|-|06/12/21|13:37:19|GET /robots.txt HTTP/1.1|200|525|-|ZoominfoBot (zoominfobot at zoominfo dot com)
+66.249.66.83|US|-|06/12/21|13:39:23|GET /my_favorites.html HTTP/1.1|200|4182|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+180.149.125.175|MN|-|06/12/21|13:56:04|GET /stalker_portal/server/tools/auth_simple.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+157.90.181.150|DE|-|06/12/21|13:58:59|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+92.118.160.13|LT|-|06/12/21|14:01:24|GET / HTTP/1.1|301|244|-|NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+92.118.160.13|LT|-|06/12/21|14:01:24|GET / HTTP/1.1|200|399|http://3.135.156.21:80/|Go http package
+34.86.35.33|US|-|06/12/21|14:04:44|GET / HTTP/1.1|200|136|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+135.125.246.189|FR|-|06/12/21|14:06:33|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+135.125.246.189|FR|-|06/12/21|14:06:34|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+114.119.142.212|SG|-|06/12/21|14:11:09|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+66.249.66.26|US|-|06/12/21|14:13:30|GET /?MenuIndex=1 HTTP/1.1|200|5939|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.50|US|-|06/12/21|14:23:39|GET /invest.cgi?MenuIndex=4 HTTP/1.1|200|7153|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+162.221.192.26|US|-|06/12/21|14:29:37|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+3.68.84.177|DE|-|06/12/21|14:36:47|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+3.68.84.177|DE|-|06/12/21|14:36:47|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+3.68.84.177|DE|-|06/12/21|14:36:48|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+3.68.84.177|DE|-|06/12/21|14:36:50|POST / HTTP/1.1|200|4776|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+185.220.100.251|DE|-|06/12/21|14:38:53|GET /JsonGetBlock.html HTTP/1.1|200|13097|https://old.reddit.com/r/Bitcoin/comments/msanqy/bitcoin_block_viewer/|Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+185.220.100.251|DE|-|06/12/21|14:38:54|GET /favicon.ico HTTP/1.1|200|1506|-|Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+192.53.161.117|US|-|06/12/21|14:45:48|GET /owa/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|GET /solr/admin/info/system?wt=json HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|POST /api/jsonws/invoke HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|GET /?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php> HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|GET /index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|GET /wp-content/plugins/wp-file-manager/readme.txt HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|GET /console/ HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:49|POST /Autodiscover/Autodiscover.xml HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|14:48:50|GET /_ignition/execute-solution HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+66.249.66.94|US|-|06/12/21|14:51:35|GET /login.html HTTP/1.1|200|4077|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+54.36.148.127|FR|-|06/12/21|14:52:53|GET /robots.txt HTTP/1.1|301|254|-|Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+54.36.148.127|FR|-|06/12/21|14:52:54|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+66.249.66.50|US|-|06/12/21|15:13:34|GET / HTTP/1.1|200|9094|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.3|US|-|06/12/21|15:41:27|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.3|US|-|06/12/21|15:41:27|GET /_api/v2/dynamicmodel HTTP/1.1|404|196|http://mabc.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.5|US|-|06/12/21|15:41:28|GET /_api/v2/dynamicmodel HTTP/1.1|404|196|http://mabc.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+45.146.165.36|RU|-|06/12/21|15:50:25|GET /owa/auth/x.js HTTP/1.1|403|199|-|Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+35.243.162.113|US|-|06/12/21|16:13:58|GET /robots.txt HTTP/1.0|301|255|-|ZoominfoBot (zoominfobot at zoominfo dot com)
+35.243.162.113|US|-|06/12/21|16:13:58|GET /robots.txt HTTP/1.1|200|525|-|ZoominfoBot (zoominfobot at zoominfo dot com)
+35.243.162.113|US|-|06/12/21|16:18:34|GET /robots.txt HTTP/1.0|200|525|-|ZoominfoBot (zoominfobot at zoominfo dot com)
+185.191.171.2|GB|-|06/12/21|16:23:59|GET /robots.txt HTTP/1.1|301|242|-|Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+185.191.171.45|GB|-|06/12/21|16:23:59|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+66.249.66.149|US|-|06/12/21|16:24:21|GET /robots.txt HTTP/1.1|301|254|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.129|US|-|06/12/21|16:24:21|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.153|US|-|06/12/21|16:24:21|GET / HTTP/1.1|301|244|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.131|US|-|06/12/21|16:24:21|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.131|US|-|06/12/21|16:24:22|GET / HTTP/1.1|200|399|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+20.193.237.153|IN|-|06/12/21|16:41:57|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+20.193.237.153|IN|-|06/12/21|16:41:58|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+66.249.66.81|US|-|06/12/21|16:44:34|GET /US_CoronaVirus_PerCapita.pdf HTTP/1.1|301|260|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.83|US|-|06/12/21|16:44:35|GET /US_CoronaVirus_PerCapita.pdf HTTP/1.1|200|46103|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+68.183.200.160|CA|-|06/12/21|16:47:53|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+68.183.200.160|CA|-|06/12/21|16:47:53|GET /favicon.ico HTTP/1.1|200|1506|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+68.183.200.160|CA|-|06/12/21|16:47:54|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+34.77.162.27|BE|-|06/12/21|16:58:34|GET / HTTP/1.1|200|4286|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+162.62.123.46|DE|-|06/12/21|17:06:29|GET / HTTP/1.1|200|136|-|-
+167.248.133.53|US|-|06/12/21|17:12:27|GET / HTTP/1.1|200|136|-|-
+167.248.133.53|US|-|06/12/21|17:12:27|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+135.125.244.48|FR|-|06/12/21|17:15:29|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+135.125.244.48|FR|-|06/12/21|17:15:29|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+34.74.59.178|US|-|06/12/21|17:33:59|GET /robots.txt HTTP/1.0|301|242|-|ZoominfoBot (zoominfobot at zoominfo dot com)
+34.74.59.178|US|-|06/12/21|17:33:59|GET /robots.txt HTTP/1.1|200|525|-|ZoominfoBot (zoominfobot at zoominfo dot com)
+135.125.246.189|FR|-|06/12/21|17:57:23|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+135.125.246.189|FR|-|06/12/21|17:57:23|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+216.244.66.247|US|-|06/12/21|18:08:41|GET /robots.txt HTTP/1.1|301|242|-|Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)
+216.244.66.247|US|-|06/12/21|18:08:42|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)
+88.98.244.119|GB|-|06/12/21|18:16:07|GET /BollingerBandAnalysis.json HTTP/1.1|200|66671|-|Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1
+88.98.244.119|GB|-|06/12/21|18:16:07|GET /favicon.ico HTTP/1.1|200|1506|-|Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1
+162.62.123.46|DE|-|06/12/21|18:23:49|GET / HTTP/1.1|200|4703|-|-
+45.91.22.247|FR|-|06/12/21|18:24:25|GET /?author=1 HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+45.91.22.247|FR|-|06/12/21|18:24:25|GET /wp-json/wp/v2/users/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+45.91.22.247|FR|-|06/12/21|18:24:25|POST /xmlrpc.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+45.91.22.247|FR|-|06/12/21|18:24:25|POST /xmlrpc.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+66.249.66.4|US|-|06/12/21|18:24:30|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+162.142.125.39|US|-|06/12/21|18:28:38|GET / HTTP/1.1|200|4703|-|-
+162.142.125.39|US|-|06/12/21|18:28:38|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+34.219.65.163|US|-|06/12/21|18:32:46|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+54.184.173.153|US|-|06/12/21|18:33:08|GET /favicon.ico HTTP/1.1|200|1506|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+92.118.160.41|LT|-|06/12/21|18:35:27|GET / HTTP/1.1|301|233|-|NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+92.118.160.41|LT|-|06/12/21|18:35:28|GET / HTTP/1.1|200|3203|http://3.135.156.21:80/|Go http package
+66.249.66.84|US|-|06/12/21|18:44:41|GET / HTTP/1.1|200|9747|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+114.119.142.247|SG|-|06/12/21|18:50:25|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+92.118.160.1|LT|-|06/12/21|18:51:03|GET / HTTP/1.1|200|4703|-|NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+66.249.66.2|US|-|06/12/21|18:51:52|GET /my_navbar_colors.css?version=20181217_12 HTTP/1.1|200|3245|https://mabc.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.4|US|-|06/12/21|18:51:53|GET /member_small.css?version=20181217_12 HTTP/1.1|200|1132|https://mabc.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.2|US|-|06/12/21|18:51:54|GET /member_large.css?version=20181217_12 HTTP/1.1|200|1145|https://mabc.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+209.17.96.90|US|-|06/12/21|18:53:44|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+52.203.205.95|US|-|06/12/21|19:04:24|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+114.119.154.22|SG|-|06/12/21|19:04:46|GET /robots.txt HTTP/1.1|301|258|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+114.119.154.22|SG|-|06/12/21|19:04:47|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+128.199.255.164|SG|-|06/12/21|19:08:38|POST /admin/config.php HTTP/1.1|403|199|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+66.249.66.88|US|-|06/12/21|19:11:40|GET /ads.txt HTTP/1.1|404|196|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.67|US|-|06/12/21|19:11:40|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.88|US|-|06/12/21|19:11:40|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.69|US|-|06/12/21|19:11:41|GET /ads.txt HTTP/1.1|404|196|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+81.69.254.180|CN|-|06/12/21|19:12:23|GET / HTTP/1.1|301|233|-|Mozilla/5.0 (compatible; ThinkBot/0.3.0; +In_the_test_phase,_if_the_spider_brings_you_trouble,_please_add_our_IP_to_the_blacklist._Thank_you.)
+81.69.254.180|CN|-|06/12/21|19:12:26|GET / HTTP/1.1|301|232|-|Mozilla/5.0 (compatible; ThinkBot/0.3.0; +In_the_test_phase,_if_the_spider_brings_you_trouble,_please_add_our_IP_to_the_blacklist._Thank_you.)
+81.69.254.180|CN|-|06/12/21|19:12:28|GET / HTTP/1.1|403|-|http://www.stevelt.com|Mozilla/5.0 (compatible; ThinkBot/0.3.0; +In_the_test_phase,_if_the_spider_brings_you_trouble,_please_add_our_IP_to_the_blacklist._Thank_you.)
+66.249.66.65|US|-|06/12/21|19:15:04|GET /friends.html HTTP/1.1|304|-|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.61|US|-|06/12/21|19:15:07|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.61|US|-|06/12/21|19:15:07|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+114.119.130.57|SG|-|06/12/21|19:17:01|GET /robots.txt HTTP/1.1|301|254|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+114.119.130.57|SG|-|06/12/21|19:17:02|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+66.249.66.31|US|-|06/12/21|19:25:22|GET / HTTP/1.1|301|245|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.30|US|-|06/12/21|19:25:23|GET / HTTP/1.1|200|4286|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.26|US|-|06/12/21|19:25:23|GET / HTTP/1.1|200|4286|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+34.212.183.107|US|-|06/12/21|19:25:34|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+66.249.66.59|US|-|06/12/21|19:27:33|GET /my_navbar_colors.css?version=20181217_12 HTTP/1.1|200|3245|https://grotto.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.63|US|-|06/12/21|19:27:34|GET /member_small.css?version=20181217_12 HTTP/1.1|200|1132|https://grotto.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.59|US|-|06/12/21|19:27:34|GET /member_large.css?version=20181217_12 HTTP/1.1|200|1145|https://grotto.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+185.224.129.229|NL|-|06/12/21|19:41:20|GET / HTTP/1.0|400|362|-|-
+196.89.228.233|MA|-|06/12/21|19:44:22|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+196.89.228.233|MA|-|06/12/21|19:44:23|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+52.12.70.26|US|-|06/12/21|19:55:10|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+54.214.217.6|US|-|06/12/21|19:55:50|GET /favicon.ico HTTP/1.1|200|1506|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+209.17.96.186|US|-|06/12/21|20:03:53|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+209.17.96.34|US|-|06/12/21|20:07:29|GET / HTTP/1.0|200|136|-|Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+18.236.200.167|US|-|06/12/21|20:10:46|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+193.176.85.112|RO|-|06/12/21|20:15:05|GET /phpmyadmin/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:05|GET /phpMyAdmin/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:05|GET /pma/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:06|GET /myadmin/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:06|GET /sql/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:07|GET /mysql/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:07|GET /mysqladmin/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:07|GET /db/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:08|GET /database/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:08|GET /adminer.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+193.176.85.112|RO|-|06/12/21|20:15:08|GET /sql.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+111.118.21.122|KR|-|06/12/21|20:18:17|GET / HTTP/1.1|200|136|-|Mozilla/5.0 zgrab/0.x
+54.36.148.241|FR|-|06/12/21|20:23:32|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+111.118.21.122|KR|-|06/12/21|20:30:09|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 zgrab/0.x
+66.249.66.1|US|-|06/12/21|20:35:59|GET / HTTP/1.1|301|245|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.28|US|-|06/12/21|20:36:00|GET / HTTP/1.1|200|4286|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.52|US|-|06/12/21|20:45:53|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.50|US|-|06/12/21|20:45:53|GET / HTTP/1.1|200|9094|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+13.82.198.192|US|-|06/12/21|21:10:27|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+13.82.198.192|US|-|06/12/21|21:10:28|POST / HTTP/1.1|200|4776|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+66.249.66.207|US|-|06/12/21|21:11:39|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.209|US|-|06/12/21|21:11:39|GET /ads.txt HTTP/1.1|404|196|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.30|US|-|06/12/21|21:11:40|GET /ads.txt HTTP/1.1|404|196|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+45.146.165.123|RU|-|06/12/21|21:14:29|POST /Autodiscover/Autodiscover.xml HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:29|POST /api/jsonws/invoke HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:32|GET /_ignition/execute-solution HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:35|POST /mifs/.;/services/LogService HTTP/1.1|403|199|https://3.135.156.21:443|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:36|GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:39|POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:40|GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:41|GET /index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:43|GET /wp-content/plugins/wp-file-manager/readme.txt HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:43|GET /console/ HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/12/21|21:14:46|GET / HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+114.119.128.236|SG|-|06/12/21|21:14:54|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+66.249.66.37|US|-|06/12/21|21:16:04|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.37|US|-|06/12/21|21:16:04|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+135.125.244.48|FR|-|06/12/21|21:17:10|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+135.125.244.48|FR|-|06/12/21|21:17:10|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+66.249.66.57|US|-|06/12/21|21:25:54|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.59|US|-|06/12/21|21:25:54|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.55|US|-|06/12/21|21:25:58|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+114.119.138.117|SG|-|06/12/21|21:26:02|GET /robots.txt HTTP/1.1|301|242|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+114.119.138.117|SG|-|06/12/21|21:26:03|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+135.125.246.189|FR|-|06/12/21|21:32:19|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+135.125.246.189|FR|-|06/12/21|21:32:19|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+64.62.197.32|US|-|06/12/21|21:45:06|GET / HTTP/1.1|200|4703|-|-
+46.101.30.139|GB|-|06/12/21|21:56:56|GET /3000D00E0000FFFF3F0031313744373731343634304537353046007A7A7A7A7A7A7A7A7A7A7A7A7A7A7A0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000008047A7A7A7A7A7A7A7A7A0000000000000000000000000000000000000000000000000000000000000000 HTTP/1.1|403|199|-|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)
+51.77.52.160|PL|-|06/12/21|21:57:10|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+134.122.14.123|US|-|06/12/21|22:00:57|GET / HTTP/1.0|400|362|-|-
+66.249.66.48|US|-|06/12/21|22:02:43|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.44|US|-|06/12/21|22:02:43|GET /my_navbar_colors.css?version=20181217_12 HTTP/1.1|200|3245|https://mu.stevelt.com/?MenuIndex=3|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+207.46.13.8|US|-|06/12/21|22:08:06|GET /robots.txt HTTP/1.1|301|256|-|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.8|US|-|06/12/21|22:08:07|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+66.249.66.48|US|-|06/12/21|22:16:45|GET /member_small.css?version=20181217_12 HTTP/1.1|200|1132|https://mu.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.44|US|-|06/12/21|22:16:46|GET /member_large.css?version=20181217_12 HTTP/1.1|200|1145|https://mu.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+103.153.77.81|VN|-|06/12/21|22:40:48|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+103.153.77.81|VN|-|06/12/21|22:40:49|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+103.153.77.81|VN|-|06/12/21|22:40:49|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+103.153.77.81|VN|-|06/12/21|22:40:50|POST / HTTP/1.1|200|4776|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+199.34.20.37|US|-|06/12/21|22:40:57|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+157.55.39.66|US|-|06/12/21|22:43:14|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.66|US|-|06/12/21|22:43:14|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+66.249.66.46|US|-|06/12/21|22:46:31|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+23.251.102.74|US|-|06/12/21|22:50:13|GET /cgi-bin/config.exp HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+66.249.66.81|US|-|06/12/21|22:56:41|GET / HTTP/1.1|301|232|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.83|US|-|06/12/21|22:56:42|GET / HTTP/1.1|200|9747|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+87.251.70.85|RU|-|06/12/21|23:14:25|GET /remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession HTTP/1.1|403|199|-|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+114.119.159.123|SG|-|06/12/21|23:21:33|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+66.249.66.28|US|-|06/12/21|23:26:47|GET /?MenuIndex=1 HTTP/1.1|200|5939|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.48|US|-|06/12/21|23:45:07|GET /my_navbar_colors.css?version=20181217_12 HTTP/1.1|200|3245|https://mu.stevelt.com/member.cgi?MenuIndex=10|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.44|US|-|06/12/21|23:45:08|GET /member_small.css?version=20181217_12 HTTP/1.1|200|1132|https://mu.stevelt.com/member.cgi?MenuIndex=10|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.46|US|-|06/12/21|23:45:09|GET /member_large.css?version=20181217_12 HTTP/1.1|200|1145|https://mu.stevelt.com/member.cgi?MenuIndex=10|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+114.119.157.111|SG|-|06/12/21|23:50:13|GET /webalizer/daily_usage_201905.png HTTP/1.1|403|199|-|Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+209.97.171.111|SG|-|06/12/21|23:50:30|GET /images/Nxrs4tAtO/HCw4_2FQ7o69dmQEodXU/_2Fua56jJgWqt8tN1Tx/0M9Tus5G1nAOe_2BJflcrm/2nz3T7AxG_2Fd/YnZ7Cn6A/zq1HlKYZhiFyQLgflmvIbb1/yQL2MK3UaK/00uQsiMnxrcs4C9gN/xpGuwRLuq6tH/7YwEr.avi HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+45.133.1.63|NL|-|06/12/21|23:59:41|GET / HTTP/1.0|400|362|-|-
+196.196.41.68|US|-|06/13/21|00:02:37|GET / HTTP/1.1|200|136|-|-
+34.96.130.15|HK|-|06/13/21|00:07:04|GET / HTTP/1.1|200|4703|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+34.86.35.30|US|-|06/13/21|00:14:43|GET / HTTP/1.1|200|399|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+34.96.130.28|HK|-|06/13/21|00:15:38|GET / HTTP/1.1|200|4703|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+104.198.172.68|US|-|06/13/21|00:22:02|GET /wp-login.php HTTP/1.1|301|260|-|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+104.198.172.68|US|-|06/13/21|00:22:02|GET /wp-login.php HTTP/1.1|404|196|http://stocks.silverhammersoftware.com/wp-login.php|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+165.232.138.145|US|-|06/13/21|00:22:24|GET /images/Nxrs4tAtO/HCw4_2FQ7o69dmQEodXU/_2Fua56jJgWqt8tN1Tx/0M9Tus5G1nAOe_2BJflcrm/2nz3T7AxG_2Fd/YnZ7Cn6A/zq1HlKYZhiFyQLgflmvIbb1/yQL2MK3UaK/00uQsiMnxrcs4C9gN/xpGuwRLuq6tH/7YwEr.avi HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+162.142.125.54|US|-|06/13/21|00:23:57|GET / HTTP/1.1|200|4703|-|-
+162.142.125.54|US|-|06/13/21|00:23:58|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+66.249.66.48|US|-|06/13/21|00:27:00|GET / HTTP/1.1|200|9094|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.48|US|-|06/13/21|00:28:27|GET /portfolio.js HTTP/1.1|200|3649|https://stocks.silverhammersoftware.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+34.77.162.10|BE|-|06/13/21|00:30:44|GET / HTTP/1.1|200|3203|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+109.252.53.101|RU|-|06/13/21|00:33:30|GET /webalizer/ HTTP/1.0|403|199|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37
+109.252.53.101|RU|-|06/13/21|00:33:31|GET / HTTP/1.0|403|-|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37
+109.252.53.101|RU|-|06/13/21|00:33:33|GET /webalizer/ HTTP/1.0|403|199|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+109.252.53.101|RU|-|06/13/21|00:33:34|GET / HTTP/1.0|403|-|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+34.77.162.19|BE|-|06/13/21|00:34:25|GET / HTTP/1.1|301|248|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+54.198.81.168|US|-|06/13/21|00:36:42|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+54.198.81.168|US|-|06/13/21|00:36:42|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:19|GET / HTTP/1.1|301|246|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:20|GET / HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:20|GET /wp-login.php HTTP/1.1|301|258|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:21|GET /wp-login.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:21|GET /wordpress/wp-login.php HTTP/1.1|301|268|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:22|GET /wordpress/wp-login.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:22|GET /blog/wp-login.php HTTP/1.1|301|263|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:23|GET /blog/wp-login.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:23|GET /wp/wp-login.php HTTP/1.1|301|261|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:42:24|GET /wp/wp-login.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+34.77.162.24|BE|-|06/13/21|00:42:52|GET / HTTP/1.1|200|4703|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+3.0.115.255|SG|-|06/13/21|00:43:27|GET / HTTP/1.1|301|233|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:28|GET / HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:28|GET /wp-login.php HTTP/1.1|301|245|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:29|GET /wp-login.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:29|GET /wordpress/wp-login.php HTTP/1.1|301|255|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:30|GET /wordpress/wp-login.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:30|GET /blog/wp-login.php HTTP/1.1|301|250|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:31|GET /blog/wp-login.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:31|GET /wp/wp-login.php HTTP/1.1|301|248|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+3.0.115.255|SG|-|06/13/21|00:43:32|GET /wp/wp-login.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+109.252.53.101|RU|-|06/13/21|00:49:24|GET /webalizer/ HTTP/1.0|403|199|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.24 Safari/537.36 Edg/83.0.478.18
+109.252.53.101|RU|-|06/13/21|00:49:25|GET / HTTP/1.0|403|-|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.24 Safari/537.36 Edg/83.0.478.18
+109.252.53.101|RU|-|06/13/21|00:49:27|GET /webalizer/ HTTP/1.0|403|199|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+109.252.53.101|RU|-|06/13/21|00:49:28|GET / HTTP/1.0|403|-|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+34.77.162.12|BE|-|06/13/21|00:50:39|GET / HTTP/1.1|301|244|-|Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+222.175.199.226|-|-|06/13/21|00:54:59|GET / HTTP/1.1|400|226|-|-
+109.252.53.101|RU|-|06/13/21|01:04:18|GET /webalizer/ HTTP/1.0|403|199|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.44 Safari/537.36
+109.252.53.101|RU|-|06/13/21|01:04:18|GET / HTTP/1.0|403|-|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.44 Safari/537.36
+109.252.53.101|RU|-|06/13/21|01:04:21|GET /webalizer/ HTTP/1.0|403|199|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+109.252.53.101|RU|-|06/13/21|01:04:21|GET / HTTP/1.0|403|-|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+162.142.125.37|US|-|06/13/21|01:18:24|GET / HTTP/1.1|200|136|-|-
+162.142.125.37|US|-|06/13/21|01:18:24|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+114.119.134.75|SG|-|06/13/21|01:19:09|GET /images/My_Books_at_BN.jpg HTTP/1.1|403|199|-|Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+109.252.53.101|RU|-|06/13/21|01:19:54|GET /webalizer/ HTTP/1.0|403|199|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37
+109.252.53.101|RU|-|06/13/21|01:19:55|GET / HTTP/1.0|403|-|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37
+3.8.12.221|GB|-|06/13/21|01:19:56|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+3.8.12.221|GB|-|06/13/21|01:19:56|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+3.8.12.221|GB|-|06/13/21|01:19:56|GET /wordpress/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+3.8.12.221|GB|-|06/13/21|01:19:56|GET /blog/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+3.8.12.221|GB|-|06/13/21|01:19:56|GET /wp/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+109.252.53.101|RU|-|06/13/21|01:19:57|GET /webalizer/ HTTP/1.0|403|199|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+109.252.53.101|RU|-|06/13/21|01:19:58|GET / HTTP/1.0|403|-|https://tastefulcelebs.com|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+199.187.126.46|-|-|06/13/21|01:22:24|\n|400|226|-|-
+180.149.125.175|MN|-|06/13/21|01:24:36|GET /c/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+66.249.66.83|US|-|06/13/21|01:27:53|GET /US_CoronaVirus_PerCapita.pdf HTTP/1.1|301|260|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.84|US|-|06/13/21|01:27:54|GET /US_CoronaVirus_PerCapita.pdf HTTP/1.1|200|46103|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.57|US|-|06/13/21|01:32:20|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.55|US|-|06/13/21|01:32:20|GET /acct.css HTTP/1.1|200|1213|https://acct.silverhammersoftware.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+34.90.100.245|NL|-|06/13/21|01:35:41|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+34.90.100.245|NL|-|06/13/21|01:35:42|POST / HTTP/1.1|200|4776|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+66.249.66.57|US|-|06/13/21|01:50:29|GET /acct.css HTTP/1.1|200|1213|https://acct.silverhammersoftware.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+109.252.53.101|RU|-|06/13/21|01:53:54|GET /webalizer/ HTTP/1.0|403|199|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+109.252.53.101|RU|-|06/13/21|01:54:02|GET /webalizer/ HTTP/1.0|403|199|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.44 Safari/537.36 OPR/69.0.3686.7 (Edition beta)
+109.252.53.101|RU|-|06/13/21|01:54:03|GET / HTTP/1.0|403|-|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.44 Safari/537.36 OPR/69.0.3686.7 (Edition beta)
+66.249.66.47|US|-|06/13/21|02:08:00|GET /robots.txt HTTP/1.1|301|256|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.57|US|-|06/13/21|02:08:00|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.45|US|-|06/13/21|02:08:00|GET / HTTP/1.1|301|246|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.57|US|-|06/13/21|02:08:01|GET / HTTP/1.1|200|3203|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+45.91.22.247|FR|-|06/13/21|02:08:15|GET /?author=1 HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+45.91.22.247|FR|-|06/13/21|02:08:15|GET /wp-json/wp/v2/users/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+45.91.22.247|FR|-|06/13/21|02:08:15|POST /xmlrpc.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+45.91.22.247|FR|-|06/13/21|02:08:15|POST /xmlrpc.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+54.36.149.69|FR|-|06/13/21|02:18:25|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+128.1.248.26|US|-|06/13/21|02:34:31|GET /cgi-bin/config.exp HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+162.142.125.53|US|-|06/13/21|02:35:04|GET / HTTP/1.1|200|136|-|-
+162.142.125.53|US|-|06/13/21|02:35:04|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+146.185.163.81|NL|-|06/13/21|02:47:22|GET /wp-login.php HTTP/1.1|301|256|-|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+146.185.163.81|NL|-|06/13/21|02:47:22|GET /wp-login.php HTTP/1.1|404|196|http://www.barebulbproductions.com/wp-login.php|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+146.59.132.181|FR|-|06/13/21|02:52:01|GET / HTTP/1.1|200|136|-|python-requests/2.24.0
+109.252.53.101|RU|-|06/13/21|02:54:07|GET /webalizer/ HTTP/1.0|403|199|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.24 Safari/537.36
+109.252.53.101|RU|-|06/13/21|02:54:07|GET / HTTP/1.0|403|-|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.24 Safari/537.36
+109.252.53.101|RU|-|06/13/21|02:54:10|GET /webalizer/ HTTP/1.0|403|199|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.24 Safari/537.36 Edg/83.0.478.18
+109.252.53.101|RU|-|06/13/21|02:54:10|GET / HTTP/1.0|403|-|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.24 Safari/537.36 Edg/83.0.478.18
+52.60.189.115|CA|-|06/13/21|03:03:09|GET / HTTP/1.1|200|7178|-|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+52.60.189.115|CA|-|06/13/21|03:03:09|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+52.60.189.115|CA|-|06/13/21|03:03:09|GET /wordpress/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+52.60.189.115|CA|-|06/13/21|03:03:10|GET /blog/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+52.60.189.115|CA|-|06/13/21|03:03:10|GET /wp/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36
+135.125.246.189|FR|-|06/13/21|03:04:43|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+135.125.246.189|FR|-|06/13/21|03:04:44|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+66.249.66.3|US|-|06/13/21|03:11:40|GET /ads.txt HTTP/1.1|301|252|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+109.252.53.101|RU|-|06/13/21|03:23:46|GET /webalizer/ HTTP/1.0|403|199|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4089.0 Safari/537.36
+109.252.53.101|RU|-|06/13/21|03:23:46|GET / HTTP/1.0|403|-|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4089.0 Safari/537.36
+109.252.53.101|RU|-|06/13/21|03:23:49|GET /webalizer/ HTTP/1.0|403|199|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4086.0 Safari/537.36
+109.252.53.101|RU|-|06/13/21|03:23:50|GET / HTTP/1.0|403|-|https://www.maquestionmedicale.fr|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4086.0 Safari/537.36
+66.249.66.151|US|-|06/13/21|03:28:24|GET / HTTP/1.1|301|244|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.133|US|-|06/13/21|03:28:25|GET / HTTP/1.1|200|399|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+92.118.160.5|LT|-|06/13/21|03:34:57|GET / HTTP/1.1|200|136|-|NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+66.249.66.82|US|-|06/13/21|03:38:21|GET / HTTP/1.1|200|9747|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+105.159.15.160|MA|-|06/13/21|03:58:34|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+105.159.15.160|MA|-|06/13/21|03:58:34|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+114.119.145.216|SG|-|06/13/21|04:11:01|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+74.82.47.3|US|-|06/13/21|04:18:58|GET / HTTP/1.1|200|136|-|-
+13.90.76.209|US|-|06/13/21|04:22:52|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:22:54|GET /conf/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:22:55|GET /wp-content/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:22:57|GET /wp-admin/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:22:58|GET /library/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:22:59|GET /new/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:01|GET /vendor/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:02|GET /old/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:03|GET /local/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:05|GET /api/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:06|GET /blog/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:08|GET /crm/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:09|GET /admin/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:10|GET /laravel/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:12|GET /app/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:13|GET /app/config/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:15|GET /apps/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:16|GET /audio/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:18|GET /cgi-bin/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:20|GET /backend/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:21|GET /src/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:23|GET /base/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:24|GET /core/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:25|GET /vendor/laravel/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:27|GET /storage/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:28|GET /protected/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:29|GET /newsite/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:31|GET /www/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:32|GET /sites/all/libraries/mailchimp/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:33|GET /database/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:35|GET /public/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:36|GET /ec2-3-135-156-21.us-east-2.compute.amazonaws.com/.env HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:37|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+13.90.76.209|US|-|06/13/21|04:23:38|GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+17.121.114.196|US|-|06/13/21|04:27:53|GET /robots.txt HTTP/1.1|301|242|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)
+17.121.115.146|US|-|06/13/21|04:27:53|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)
+17.121.115.176|US|-|06/13/21|04:27:59|GET /ga_states.csv HTTP/1.1|301|245|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)
+17.121.114.222|US|-|06/13/21|04:28:00|GET /ga_states.csv HTTP/1.1|404|196|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)
+52.52.190.187|US|-|06/13/21|04:30:57|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+52.52.190.187|US|-|06/13/21|04:30:58|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+52.52.190.187|US|-|06/13/21|04:30:58|GET /wordpress/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+52.52.190.187|US|-|06/13/21|04:30:58|GET /blog/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+52.52.190.187|US|-|06/13/21|04:30:58|GET /wp/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+178.175.40.86|AL|-|06/13/21|04:33:20|POST /HNAP1/ HTTP/1.0|403|199|-|-
+178.62.76.138|GB|-|06/13/21|04:36:23|GET /wp-login.php HTTP/1.1|301|256|-|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+178.62.76.138|GB|-|06/13/21|04:36:24|GET /wp-login.php HTTP/1.1|404|196|http://www.madisonfreethinkers.com/wp-login.php|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+66.249.66.59|US|-|06/13/21|04:38:39|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.61|US|-|06/13/21|04:38:47|GET /member_small.css?version=20181217_12 HTTP/1.1|200|1132|https://grotto.stevelt.com/|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.97 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+114.119.136.46|SG|-|06/13/21|04:44:10|GET /robots.txt HTTP/1.1|301|255|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+114.119.136.46|SG|-|06/13/21|04:44:11|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+114.119.134.35|SG|-|06/13/21|04:47:44|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+66.249.66.95|US|-|06/13/21|04:48:41|GET /?MenuIndex=3 HTTP/1.1|200|3951|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.50|US|-|06/13/21|04:58:44|GET / HTTP/1.1|200|9094|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.50|US|-|06/13/21|04:59:55|GET /chart.js HTTP/1.1|200|9080|https://stocks.silverhammersoftware.com/|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/90.0.4430.97 Safari/537.36
+66.249.66.48|US|-|06/13/21|04:59:55|GET /invest.css?version=20190715_01 HTTP/1.1|200|2179|https://stocks.silverhammersoftware.com/|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/90.0.4430.97 Safari/537.36
+92.118.160.1|LT|-|06/13/21|05:20:23|GET / HTTP/1.1|301|232|-|NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+92.118.160.1|LT|-|06/13/21|05:20:23|GET / HTTP/1.1|200|9747|http://3.135.156.21:80/|Go http package
+181.177.111.110|US|-|06/13/21|05:23:40|GET / HTTP/1.0|200|136|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3452.0 Safari/537.36
+108.50.159.172|US|-|06/13/21|05:53:38|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+66.249.66.81|US|-|06/13/21|05:58:31|GET / HTTP/1.1|301|232|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+37.187.127.42|FR|-|06/13/21|06:09:56|GET /wp-login.php HTTP/1.1|301|257|-|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+37.187.127.42|FR|-|06/13/21|06:09:56|GET /wp-login.php HTTP/1.1|404|196|http://www.silverhammersoftware.com/wp-login.php|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+94.23.6.220|FR|-|06/13/21|06:17:38|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+84.38.186.69|RU|-|06/13/21|06:19:26|GET / HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+84.38.186.69|RU|-|06/13/21|06:19:27|GET /HNAP1/ HTTP/1.1|403|199|http://3.135.156.21/|Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+13.124.222.242|KR|-|06/13/21|06:25:06|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+13.124.222.242|KR|-|06/13/21|06:25:06|GET /wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+13.124.222.242|KR|-|06/13/21|06:25:07|GET /wordpress/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+13.124.222.242|KR|-|06/13/21|06:25:07|GET /blog/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+13.124.222.242|KR|-|06/13/21|06:25:07|GET /wp/wp-login.php HTTP/1.1|404|196|-|Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+5.200.91.6|IR|-|06/13/21|06:27:27|GET /wp-login.php HTTP/1.1|301|244|-|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+5.200.91.6|IR|-|06/13/21|06:27:28|GET /wp-login.php HTTP/1.1|403|199|http://www.stevelt.com/wp-login.php|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+161.35.124.41|US|-|06/13/21|06:33:12|GET /3000D00E0000FFFF3F0031313744373731343634304537353046007A7A7A7A7A7A7A7A7A7A7A7A7A7A7A0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000008047A7A7A7A7A7A7A7A7A0000000000000000000000000000000000000000000000000000000000000000 HTTP/1.1|403|199|-|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)
+66.249.66.43|US|-|06/13/21|06:38:41|GET / HTTP/1.1|200|4703|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+35.172.194.57|US|-|06/13/21|06:42:44|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+35.172.194.57|US|-|06/13/21|06:42:44|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+35.172.194.57|US|-|06/13/21|06:42:44|GET /xmlrpc.php?rsd HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+35.172.194.57|US|-|06/13/21|06:42:44|GET /phpmyadmin/ HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+35.172.194.57|US|-|06/13/21|06:42:44|GET / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+35.172.194.57|US|-|06/13/21|06:42:44|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+114.119.153.49|SG|-|06/13/21|07:21:21|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+172.105.254.10|AU|-|06/13/21|07:57:18|GET /owa/ HTTP/1.1|404|196|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+135.125.246.189|FR|-|06/13/21|08:00:26|POST / HTTP/1.1|200|136|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+135.125.246.189|FR|-|06/13/21|08:00:26|GET /.env HTTP/1.1|404|196|-|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:42|POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:42|POST /api/jsonws/invoke HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:43|GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:43|GET /solr/admin/info/system?wt=json HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:43|GET /index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:43|GET /?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php> HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:43|GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1|403|-|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:43|GET /wp-content/plugins/wp-file-manager/readme.txt HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:44|POST /Autodiscover/Autodiscover.xml HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:44|GET /console/ HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+45.146.165.123|RU|-|06/13/21|08:00:44|GET /_ignition/execute-solution HTTP/1.1|403|199|-|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+66.249.66.30|US|-|06/13/21|08:28:46|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.66.28|US|-|06/13/21|08:28:46|GET /screen.html HTTP/1.1|304|-|-|Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.90 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+64.246.165.180|US|-|06/13/21|08:30:37|GET /robots.txt HTTP/1.0|301|254|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+64.246.165.180|US|-|06/13/21|08:30:37|GET / HTTP/1.1|301|244|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+114.119.130.97|SG|-|06/13/21|08:32:18|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+114.119.132.104|SG|-|06/13/21|08:50:58|GET /robots.txt HTTP/1.1|403|199|-|Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+139.162.145.250|-|-|06/13/21|08:53:46|\x16\x03\x01|400|226|-|-
+185.224.129.229|NL|-|06/13/21|09:04:34|GET / HTTP/1.0|400|362|-|-
+5.188.48.10|RU|-|06/13/21|09:10:09|GET /TermsAndConditions.pdf HTTP/1.0|403|199|https://www.silverhammersoftware.com/TermsAndConditions.pdf|Mozilla/5.0 (Windows NT 6.3; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+5.188.48.10|RU|-|06/13/21|09:10:10|GET / HTTP/1.0|403|-|https://www.silverhammersoftware.com/TermsAndConditions.pdf|Mozilla/5.0 (Windows NT 6.3; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+5.188.48.10|RU|-|06/13/21|09:10:10|GET /TermsAndConditions.pdf HTTP/1.0|403|199|https://www.silverhammersoftware.com/TermsAndConditions.pdf|Mozilla/5.0 (Windows NT 6.3; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+5.188.48.10|RU|-|06/13/21|09:10:11|GET / HTTP/1.0|403|-|https://www.silverhammersoftware.com/TermsAndConditions.pdf|Mozilla/5.0 (Windows NT 6.3; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+5.188.48.10|RU|-|06/13/21|09:10:11|GET / HTTP/1.0|403|-|https://www.silverhammersoftware.com/|Mozilla/5.0 (Windows NT 6.3; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+5.188.48.10|RU|-|06/13/21|09:10:12|GET / HTTP/1.0|403|-|https://www.silverhammersoftware.com/|Mozilla/5.0 (Windows NT 6.3; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+76.177.170.135|US|-|06/13/21|09:11:23|GET / HTTP/1.1|301|232|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|-|06/13/21|09:11:23|GET / HTTP/1.1|200|9747|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|-|06/13/21|09:11:23|GET /favicon.ico HTTP/1.1|200|1506|https://www.stevelt.com/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|-|06/13/21|09:11:25|GET /?MenuIndex=2 HTTP/1.1|301|244|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|-|06/13/21|09:11:25|GET /?MenuIndex=2 HTTP/1.1|200|5191|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|tms|06/13/21|09:11:27|GET /usage/index.html HTTP/1.1|200|3682|-|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|tms|06/13/21|09:11:27|GET /usage/usage.png HTTP/1.1|200|2261|https://www.stevelt.com/usage/index.html|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|tms|06/13/21|09:11:30|GET /usage/usage_202106.html HTTP/1.1|200|112529|https://www.stevelt.com/usage/index.html|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|tms|06/13/21|09:11:30|GET /usage/ctry_usage_202106.png HTTP/1.1|200|5525|https://www.stevelt.com/usage/usage_202106.html|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|tms|06/13/21|09:11:30|GET /usage/daily_usage_202106.png HTTP/1.1|200|3338|https://www.stevelt.com/usage/usage_202106.html|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+76.177.170.135|US|tms|06/13/21|09:11:30|GET /usage/hourly_usage_202106.png HTTP/1.1|200|2232|https://www.stevelt.com/usage/usage_202106.html|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0
+66.249.75.58|US|-|06/13/21|09:11:46|GET /robots.txt HTTP/1.1|200|525|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.75.56|US|-|06/13/21|09:11:46|GET /ads.txt HTTP/1.1|404|196|-|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
