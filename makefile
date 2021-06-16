@@ -17,6 +17,8 @@ FILES = \
 $(PROG): $(LIB)
 	echo "using gcc to load $(PROG)"
 	gcc -o $(PROG) $(LIB)
+	strip $(PROG)
+	ls -l $(PROG)
 
 $(LIB): $(FILES)
 
