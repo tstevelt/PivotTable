@@ -37,8 +37,10 @@ void GetDimensions ( long Location )
 		len = strlen(tokens[Index1]);
 		if ( len >= MAXLABLEN )
 		{
-			printf ( "%s exceeds MAXLABLEN of %d\n", tokens[Index1], MAXLABLEN );
-			exit ( 1 );
+			printf ( "truncating %s exceeds MAXLABLEN of %d\n", tokens[Index1], MAXLABLEN );
+			// exit ( 1 );
+			len = MAXLABLEN - 1;
+			tokens[Index1][len] = '\0';
 		}
 		if ( Width1 < len )
 		{
@@ -65,6 +67,10 @@ void GetDimensions ( long Location )
 	{
 		len = strlen(xbuffer) - 1;
 		xbuffer[len] = '\0';
+		if ( Debug > 1 )
+		{
+			printf ( "(%d) %s\n", len, xbuffer );
+		}
 		sprintf ( Labels1[ndx++].Label, "%s", xbuffer );
 	}
 	fclose ( tfp );
@@ -98,8 +104,10 @@ void GetDimensions ( long Location )
 			len = strlen(tokens[Index2]);
 			if ( len >= MAXLABLEN )
 			{
-				printf ( "%s exceeds MAXLABLEN of %d\n", tokens[Index2], MAXLABLEN );
-				exit ( 1 );
+				printf ( "truncating %s exceeds MAXLABLEN of %d\n", tokens[Index2], MAXLABLEN );
+				// exit ( 1 );
+				len = MAXLABLEN - 1;
+				tokens[Index2][len] = '\0';
 			}
 			if ( Width2 < len )
 			{

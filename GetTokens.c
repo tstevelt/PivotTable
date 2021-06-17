@@ -10,7 +10,7 @@ int GetTokens ( char xbuffer[] )
 	len = strlen(xbuffer);
 	for ( ndx = 0; ndx < len; ndx++ )
 	{
-		if ( xbuffer[ndx] == Delimiter )
+		if ( xbuffer[ndx] == Delimiter || xbuffer[ndx] == '\n' )
 		{
 			xbuffer[ndx] = '\0';
 			ndx++;

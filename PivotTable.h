@@ -42,7 +42,7 @@ TYPE	int		HasMath;
 TYPE	int		Dimension1;
 TYPE	int		Dimension2;
 
-#define		MAXLABLEN	20
+#define		MAXLABLEN	50
 typedef struct
 {
 	char	Label[MAXLABLEN];
