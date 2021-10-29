@@ -62,7 +62,7 @@ static int CountDecimals ( char String[] )
 
 int main ( int argc, char *argv[] )
 {
-	char	xbuffer[1024];
+	char	xbuffer[10240];
 	int		lineno;
 	int		rv, ndx, len;
 	int		ndx1, ndx2, Offset;
@@ -105,7 +105,7 @@ int main ( int argc, char *argv[] )
 			if ( ndx1 >= Dimension1 )
 			{
 				printf ( "Cannot find %s in labels\n", tokens[Index1] );
-				exit ( 1 );
+				continue; // exit ( 1 );
 			}
 
 			Offset = ndx1;
@@ -148,7 +148,7 @@ int main ( int argc, char *argv[] )
 			if ( ndx1 >= Dimension1 )
 			{
 				printf ( "Cannot find %s in labels\n", tokens[Index1] );
-				exit ( 1 );
+				continue; // exit ( 1 );
 			}
 
 			for ( ndx2 = 0; ndx2 < Dimension2; ndx2++ )
@@ -161,7 +161,7 @@ int main ( int argc, char *argv[] )
 			if ( ndx2 >= Dimension2 )
 			{
 				printf ( "Cannot find %s in labels\n", tokens[Index2] );
-				exit ( 1 );
+				continue; // exit ( 1 );
 			}
 
 
