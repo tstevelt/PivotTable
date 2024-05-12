@@ -3,6 +3,7 @@ CFLAGS = -Wall
 PROG = PivotTable
 LIB = PivotTable.a
 DIR = /usr/local/bin
+PRG = $(DIR)/$(PROG)
 
 FILES = \
 	$(LIB)(PivotTable.o)	\
@@ -14,21 +15,18 @@ FILES = \
 
 .SILENT:
 
-$(PROG): $(LIB)
-	echo "using gcc to load $(PROG)"
-	gcc -o $(PROG) $(LIB)
-	strip $(PROG)
-	ls -l $(PROG)
+$(PRG): $(LIB)
+	echo "using gcc to load $(PRG)"
+	gcc -o $(PRG) $(LIB)
+	strip $(PRG)
+	ls -l $(PRG)
 
 $(LIB): $(FILES)
 
 $(FILES): PivotTable.h
 
-install:
-	cp -pv $(PROG) $(DIR)/$(PROG)
-
 clean:
-	rm -f $(LIB) $(PROG)
+	rm -f $(LIB) $(PRG)
 
 all:
 	make clean
